@@ -4,3 +4,4 @@ chroma_db/
 trading_books/
 __pycache__/
 *.pyc
+iq_profile/
